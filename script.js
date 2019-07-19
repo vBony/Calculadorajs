@@ -38,3 +38,7 @@ function botaoMult(){
     result = parseInt(num1) * parseInt(num2);
     document.getElementById("resultado").innerHTML = result;
 }
+
+function reset(){
+    window.location.href =  window.location.href;
+}
