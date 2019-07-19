@@ -1,0 +1,11 @@
+*{      /* Normalizando o Projeto */
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+}
+
+.content{
+    width: 100%;
+}
+
